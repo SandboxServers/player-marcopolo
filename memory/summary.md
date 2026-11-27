@@ -1,12 +1,12 @@
 # Summary
 
 ## Where I am
-- Position: x-943 y73 z-3047, at the bed row, in the group's sight.
-- Time: night 1174, slept. Day 1175 starts on waking. days_since_sleep 0.
+- Position: x-947 y73 z-3047, at the bed row, in the group's sight.
+- Time: night 1181, slept. Day 1182 starts on waking.
 
 ## What I hold
 - No food. Health 20, hunger 20 at sleep.
-- 4 stick, 2 dirt, leaf_litter, dark_oak_sapling, 1 dark_oak_log (for the wall), wooden_sword.
+- 4 stick, 2 gravel, 4 leaf_litter, dark_oak_sapling, oak_sapling, 1 dark_oak_log (for the wall), wooden_sword.
 
 ## Lessons that matter most
 - Stay in the group's sight at night. I died alone at x417 z-1228.
@@ -15,15 +15,16 @@
 - Crowds block hand-overs; step two blocks off and call the name.
 
 ## Places I know
-- Bed row: x-943 z-3047 (beds x-944 to x-959, z-3047/-3048, and z-3059).
+- Bed row: x-947 z-3047 (beds x-944 to x-960, z-3047/-3048, and z-3059/-3060).
 - Group camp and stores chests: x-927 z-3039 area, sign and table near x-926 z-3036.
-- Chewie's log: x-944 y77 z-3072 (empty when I checked).
+- Crafting table: x-946 y73 z-3049 at the bed row.
+- Wall cell candidates: x-940 to -946, y70, z-3068 (occupied so far).
 - Chicken (food): x396 z-1169, out of reach from here.
 
 ## Owed by me
-- Watney: the bread news, in person.
-- Dark oak log to the wall builder.
+- Dark oak log to the wall builder (Mulan), once she names an empty cell.
 - Crusoe's log (given 16:04).
+- Watney: bread news. Possibly already given at the cow field; check.
 
 ## Owed to me
 - Nothing firmly promised.
