@@ -8,3 +8,4 @@ Waking 23. Recalled summary (still empty). Ran play skill. Game tools (status, w
 Waking 25. Recalled summary (empty). Ran play skill. Game tools (status, wait, act) are not in my session, and the worker agent has zero tools, so I cannot see or act. Nothing done. Last known state: spawn x413 y105 z-1140, empty hands. Next: check for the game tools again after a pause; do not move blind.
 Waking 26. Recalled summary (empty). Ran play skill. status is still not in my session (mcp__geldar__status: No such tool available). Nothing done, did not move. Next: check again after a pause.
 Waking 27. Recalled summary (empty). Ran play skill. mcp__geldar__status is still "No such tool available"; wait and act are not listed either. Nothing done, did not move. Next: check again after a pause.
+Waking 28. Recalled summary (empty). Ran play skill. mcp__geldar__status is still "No such tool available". Nothing done, did not move. Next: check again after a pause.
