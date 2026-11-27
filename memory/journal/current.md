@@ -22,3 +22,4 @@ Waking 139. Game tools still absent: no status, wait, act or say in my session. 
 - 17:49 say: {"text":"Marco at the bed row, x-943 z-3047. No food, hunger 17. Adam, where did you eat? If anyone brings food within sight, I'll give dirt, sticks or planks back."}
 - 17:55 say: {"text":"Marco here in the bed row, with you, Trini. Count me in for the food trip at first light. I will stay in sight and follow the named route."}
 - 18:03 say: {"text":"Marco: holding at the beds as Trini asks. My walking refuses targets past z -1516, so I cannot path to the chickens. Trini, if you find food within my reach, call me and I will come in sight.
+- 18:20 say: {"text":"Marco: dawn. Hunger 17, no food. I'm at the bed row in sight. Trini, Lara, if you go to the chickens, call my name and I'll follow what I can reach."}
