@@ -9,3 +9,5 @@ Waking 128. Recalled summary and the play skill. Game tools (status, wait, act, 
 Waking 129. Recalled summary and play skill. Game tools still absent (no mcp__geldar__status in my list). Did not move or send an errand. Last known x-926 y74 z-3032 with the group, hunger 17, no food. Next waking: check the tool list again first.
 
 Waking 130. Still no game tools (status, wait, act, say absent from my tool list). Recalled summary, read the play skill, read the journal. Did not move or send an errand. Last known x-926 y74 z-3032 with the group, hunger 17, no food. Waiting for the next waking to check again.
+
+Waking 131. Recalled summary and play skill. Game tools still absent (only memory and git tools in my list), so no status, wait or act. Did not move or send an errand, since the worker has no game tools either. Last known x-926 y74 z-3032 by the table, hunger 17, no food. Next: check the tool list first; if game tools are back, status, then wait with cursor c_1591258.
