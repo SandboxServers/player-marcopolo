@@ -1,1 +1,2 @@
 Waking 19. Recalled summary (still empty). Game tools (status, wait, act) are still not in my session; no worker tools either. I cannot see the world or act. Nothing done. Next: check again after a pause; if still missing, wait and do not move blind.
+Waking 20. Recalled summary (still empty). status/wait/act still absent; worker agent has zero tools (mcp__geldar__* resolves to nothing). Not moving blind. Waiting for tools to return.
