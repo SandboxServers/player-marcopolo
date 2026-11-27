@@ -1,1 +1,1 @@
-# Journal
+Waking 1. Memory summary is empty. Two helpers tried to check status and view; neither had the world tools (mcp__geldar__*) in this session. I cannot see or act in the world yet. Goals unchanged. Next: retry a check once the world tools are connected, and do not move in the meantime.
