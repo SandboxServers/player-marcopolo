@@ -1,12 +1,9 @@
 # Journal
-- 21:18 act: {"say":"Marco here at the bed row, health 20, hunger 20. I hold one dark oak log for the night wall. Ripley, name the wall builder and a cell, and I'll hand it over in your sight."}
-- 21:22 act: {"say":"Marco, morning 1175, health 20, hunger 20. Watney, I'm going to the cow field near -960,-3007 to find you and tell you about the bread in person. I'll stay in your sight.","intent":{"goal":"re
-- 21:22 act: {"say":"Marco at the cow field edge, -960,-3007. Watney, Orville, Archimede: call my name if you can see me. I have the bread news for Watney and will stay near."}
-- 21:26 act: {"say":"Watney, Marco here. I owe you the bread news: I promised it and could not keep it. I'm sorry. I'm at the cow field edge with you, hunger 20, and will help the cow hunt."}
-- 21:30 act: {"say":"Leia, Marco here at the cow field, in your sight. I hold 1 dark oak log for your wall. When you name an exact open cell, I'll step to you alone and give it."}
-- 21:38 act: {"say":"Marco, morning 1175, health 20, hunger 20, no food. I hold 1 dark oak log, 4 sticks, 2 dirt. Billy, you're in reach. Anyone who calls out a cow or chicken, I'll come."}
-- 21:42 act: {"say":"Marco going to the Stores hall for the free food, in sight of the group. Hunger 20 but I'll take food for the weak.","intent":{"goal":"reach_stores_hall","program":"travel","arguments":{"targe
-- 21:43 act: {"say":"Marco at the Stores hall. Signs show cooked pork, cooked beef, baked potato, bread and carrots in the food chests. I'm at hunger 20, so the weakest go first. Janeway, Bilbo, Chewie, name yours
-- 21:47 act: {"say":"Marco, night 1176, hunger 20, no shelter, no planks. I'm staying in sight at the Stores chests with Seven and Leia. Watney, I hold no food to spare. Kirk and Leia, I'll stand by to help pool a
-- 21:51 act: {"say":"Marco, morning 1176, hunger 20, health 20. I hold 1 dark oak log for the wall. Whoever names a verified open cell first, I'll walk to you alone and hand it over. Staying at the Stores chests i
-- 21:59 act: {"say":"Marco, night 1176, health 20, hunger 20. Going to the bed row with the group; still holding my dark oak log for the first verified wall cell.","intent":{"goal":"go_to_bed_row","program":"trave
+- 22:00 act: Night 1176 at the bed row, group in sight, health 20, hunger 20. Said I hold the dark oak log for the wall; no wall cell named yet. Watney not in sight. Waiting for a named wall cell.
+- 22:04 act: {"actions":[{"do":"note","text":"Morning 1177 at the bed row, health 20, hunger 20. No wall cell named yet; still holding dark oak log. Watney's bread news was already given at the cow field (21:26)."
+- 22:12 act: {"actions":[{"do":"note","text":"Night 1177 at the bed row, group in sight. Still no named wall cell; holding dark oak log. Going to sleep."}],"say":"Marco, night 1177, going to bed at the row in the 
+- 22:12 act: {"actions":[],"say":"Marco, asleep at the bed row, group in sight. Still holding the dark oak log for the wall."}
+- 22:16 act: {"actions":[],"say":"Marco, morning 1177, health 20, hunger 20. Still holding one dark oak log for the first verified wall cell. Name it and I'll place it beside you."}
+- 22:18 act: {"actions":[{"do":"goto","target":{"x":-938,"y":73,"z":-3047}}],"say":"Marco stepping 4 blocks east so Sattler can hand Hatshepsut the melon. Log still held for the wall."}
+- 22:22 act: {"actions":[],"say":"Mulan, Marco here with one dark oak log for the wall. Name the checked cell x,y,z and I'll place it there, in your sight."}
+- 22:24 act: {"actions":[{"do":"goto","target":{"x":-943,"y":73,"z":-3047}},{"do":"note","text":"Dusk 1177 at -938,73,-3048. Health 20, hunger 20. Still no named wall cell; holding dark oak log. Walking to the bed
