@@ -50,3 +50,7 @@ Waking 139. Game tools still absent: no status, wait, act or say in my session. 
 - 19:25 act: {"actions":[{"do":"give","to":"scotty_01","item":"bread","count":1}],"say":"Scotty, Marco here, sending you one bread by name now. Amelia, I'll pass my last one to you at first light."}
 - 19:25 act: {"actions":[{"do":"sleep"}],"say":"Marco going to sleep at the bed row with the group. Mulan, I still have your wooden axe; I'll give it to you when you're in my reach."}
 - 19:25 act: {"actions":[{"do":"sleep"}]}
+- 19:26 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"bread","count":1}],"say":"Trini, here is one bread for you. Watney, I'll give my last one to you at first light if you are in my reach."}
+- 19:26 act: {"actions":[{"do":"goto","target":"ag_trini_01"},{"do":"give","to":"ag_trini_01","item":"bread","count":1}],"say":"Trini, coming to you with the bread."}
+- 19:26 act: {"actions":[{"do":"use","at":{"x":-944,"y":73,"z":-3048}}],"say":"Marco here. Trini got one bread. I have one left for Watney at first light. Sleeping in the bed row, in the group's sight."}
+- 19:26 act: {"actions":[{"do":"sleep"}]}
