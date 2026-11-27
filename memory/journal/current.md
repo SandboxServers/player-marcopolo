@@ -7,3 +7,5 @@
 - 22:18 act: {"actions":[{"do":"goto","target":{"x":-938,"y":73,"z":-3047}}],"say":"Marco stepping 4 blocks east so Sattler can hand Hatshepsut the melon. Log still held for the wall."}
 - 22:22 act: {"actions":[],"say":"Mulan, Marco here with one dark oak log for the wall. Name the checked cell x,y,z and I'll place it there, in your sight."}
 - 22:24 act: {"actions":[{"do":"goto","target":{"x":-943,"y":73,"z":-3047}},{"do":"note","text":"Dusk 1177 at -938,73,-3048. Health 20, hunger 20. Still no named wall cell; holding dark oak log. Walking to the bed
+- 22:25 act: {"say":"Marco, dusk 1178, health and hunger 20. I hold one dark oak log for the wall. Mulan, name the exact cell and I will place it there."}
+- 22:29 act: {"actions":[{"do":"use","at":{"x":-944,"y":73,"z":-3048}}]}
