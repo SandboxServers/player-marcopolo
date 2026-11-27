@@ -21,3 +21,6 @@
 - 23:06 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3047}},{"do":"sleep"}],"say":"Marco, night 1180, heading to the bed row in the group's sight to sleep. Holding one dark oak log for the wall."}
 - 23:06 act: {"actions":[{"do":"goto","target":{"x":-932,"y":71,"z":-3043}}],"say":"Marco: enderman 1 block west of me. Walking east to the chests, not looking at it. Health 20."}
 - 23:10 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3046}},{"do":"sleep"}],"say":"Marco, night 1180, trying to sleep at the bed row again, group in sight. Holding one dark oak log for the wall."}
+- 23:20 sleep: Slept at the bed row near -947,73,-3047 with the group in sight; sleep worked. Health 20, hunger 20. Enderman 11 blocks north-west, still holding the dark oak log.
+- dawn 1180 wait: Awake at the bed row, health 20, hunger 20. Mulan has not named an empty wall cell for my log; Hatshepsut found -946,70,-3068 occupied. Holding the log, waiting for Mulan's named cell.
+- night 1181 sleep: At the bed row near -947,73,-3047 in the group's sight. Sleep called; the group is settling for the night. Health 20, hunger 20. Still holding dark oak log; Mulan has named no cell. Enderman was 11 blocks north-west.
