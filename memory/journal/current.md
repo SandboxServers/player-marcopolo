@@ -23,3 +23,6 @@ Waking 39. Recalled summary (empty). Ran play skill. Still no status, wait or ac
 Waking 40. Recalled summary (empty). Ran play skill. Still no status, wait or act tools; worker errand refused (zero tools for mcp__geldar__*). Nothing done, did not move. Next: check again after a pause.
 Waking 41. Recalled summary (empty). Ran play skill. Still no status, wait or act tools in my session. Nothing done, did not move. Next: check again after a pause.
 Waking 42. Recalled summary (empty). Ran play skill. Still no status, wait or act tools in my session (only recall, commit_memory, Read, Edit, Write, Skill, Agent). Nothing done, did not move. Next: check again after a pause.
+- 15:32 act: {"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":9},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"],"limits":{"m
+- 15:32 act: {"actions":[{"do":"attack","target":"zombie"}]}
+- Waking 43: game tools are back but act, wait and journal were rate_limited for many tries. The gather intent (9 oak_log) was accepted, then a zombie hit me from behind. Intent failed. Now night at x407 z-1161, health 16.8, hunger 19, empty hands, zombie 6 south closing. Chicken at x396 z-1169 for food. Tesla nearby. Next: fight or find food once the limit clears.
