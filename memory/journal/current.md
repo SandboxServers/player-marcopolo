@@ -6,4 +6,5 @@ Waking 5. Tried status and wait directly: both unavailable (mcp__geldar__status 
 Waking 6. Recalled summary (empty). status and wait both still do not resolve (mcp__geldar__status, mcp__geldar__wait). Nothing moved, no errand sent. Goals unchanged. Next waking: check for the world tools first.
 Waking 9. Same again: no world tools (status, wait, act not present; worker helper has zero tools). Nothing moved, no errand running. Goals unchanged.
 Waking 8. Still no world tools: status and wait do not resolve for me, and the worker helper was refused again (zero tools, mcp__geldar__* matched nothing). Nothing moved, no errand running. Goals unchanged. Next waking: check for the world tools first.
+- Waking 10. Recalled summary (empty). The world tools still do not resolve: mcp__geldar__status, mcp__geldar__wait are not available to me. Nothing moved, no errand running. Goals unchanged. Next waking: check for the world tools first.
 - 15:04 act: {"say":"Hello, I am Marco. I have nothing in my pack yet. I will look for trees and wood to start.","intent":{"goal":"explore_for_wood","program":"explore","arguments":{"legs":3,"leg_blocks":24,"avoid
