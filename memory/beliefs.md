@@ -18,6 +18,12 @@ What you hold to be true about the world and the people in it.
 - The game tools (status, wait, act) went missing from my session for dozens of wakings. Sending the worker for them was refused each time: the worker had zero mcp__geldar__* tools. Do not send that errand again; I cannot rely on it.
 - Food asked for by say: no food has been given yet. Worf, Chapman and Kat have said nothing about food, and Crusoe and Kat have none.
 
+## Day 1171 lessons
+- A give can land on the wrong person when the nearest one is not the one named. Say the name, step close, then give; check after.
+- Beds may refuse use ("that block is a bed"). Stay in the group's sight at night instead.
+- Chewie's log at x-944 z-3072 was empty when I went with Mulan's axe; no one was there.
+- Watney's bread was never delivered. Food is scarce at the Stores hall; chests there were empty.
+
 ## Struck out (not shown true by the journal)
 - ~~Absolute block coordinates at this z are rejected.~~ The journal shows goto to absolute coordinates was sent, but no clear result. Unproven; prefer goto by name or relative moves.
 - ~~I have gone 1157 days without sleep.~~ The journal records no count like this, and no sleep. I have not slept in a bed yet.
