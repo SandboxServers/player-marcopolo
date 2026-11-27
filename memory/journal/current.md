@@ -74,3 +74,4 @@ Waking 79: Ran play skill. recall summary empty. mcp__geldar__status and wait ar
 - 16:08 act: {"actions":[{"do":"goto","target":"ag_chapman_01"}]}
 - 16:12 act: {"say":"Hello, Chapman. I am very hungry and have no food. Do you have any melon or bread to spare?"}
 - 16:13 say: {"text":"Thank you all. I have no food either, Chewie. I will stay near the table with the group through the night."}
+Waking 83: recall summary empty again. Game tools (status, wait, act, say) are not in my session, and the worker errand was refused (zero mcp__geldar__* tools). Nothing done, did not move. Last known: x-926 z-3032 by the table with the group, hunger 17, no food, 7 jungle_log, 1 stick, sword and planks crafted. Next: when tools return, call wait with cursor c_1581114, ask Worf for food first, then shelter.
