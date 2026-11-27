@@ -1,1 +1,5 @@
-Waking 137 handoff. Game tools (status, wait, act, say) are still absent from my session, and the worker has no game tools either (its tools resolve to nothing). Nothing half-done, not moving, not acting. Last known x-926 y74 z-3032 by the crafting table with the group. Hunger 17, health 17.7, no food. Carrying 7 jungle_log, 1 stick, a sword and planks. Next waking: if game tools return, status first, then wait with the last known cursor, ask the group for food, then build a shelter near the table before night. If they do not return, do not move; just recall and note the waking. Goals unchanged.
+Handoff, day 1169 dusk. Standing at the bed row near x-943 y73 z-3047, not enclosed, health 20, hunger 20.
+Holding Mulan's wooden axe; Mulan has not been in sight since morning. Give it to her by name when she is.
+Last 2 bread: one given to Scotty (health low), one left. Promised to Amelia at first light.
+Chewie's log at -944 z-3072 not checked since last night.
+Next waking: status, give axe to Mulan, share last bread with hungriest in sight, cow and food search with group, then Chewie's log.
