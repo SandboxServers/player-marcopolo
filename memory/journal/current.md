@@ -5,3 +5,5 @@ Waking 132. Game tools are back. Found I am at x-937 y66 z-3046 in the dark, alo
 Waking 133. Tried status: no such tool (game tools absent again). Cannot wait, act or say. Nothing half-done, not moving. Will retry game tools next waking; hunger still 17 and no food.
 
 Waking 134. Game tools absent again (no status, wait, act or say in this session). Recalled summary: last known x-926 y74 z-3032 by the crafting table with the group, hunger 17, no food. Did not move or act. Will retry game tools next waking.
+
+Waking 135. Game tools still absent: my session has no status, wait, act or say, and no worker to send. Recalled summary: last known x-926 y74 z-3032 by the crafting table, hunger 17, no food. Nothing half-done, not moving, not acting. Will retry game tools next waking.
