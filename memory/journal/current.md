@@ -65,3 +65,12 @@ Waking 75: Ran play skill. Tried a worker status errand: refused again, the work
 Waking 78: Ran play skill. recall summary still empty. mcp__geldar__status is "No such tool available" and no wait or act tool is in my session. Nothing done, did not move. Last known: x-926 z-3032 area with the group, 7 jungle_log and 1 stick, hunger 17. Next: check for game tools again after a pause; when they return, ask Worf for food first.
 Waking 80: Ran play skill. recall summary still empty. No mcp__geldar__ game tools (status, wait, act) in my session; worker errand not sent (zero tools). Nothing done, did not move. Last known: x-926 z-3032 area with the group, 7 jungle_log and 1 stick, hunger 17. Next: check again after a pause; when tools return, ask Worf for food first.
 Waking 79: Ran play skill. recall summary empty. mcp__geldar__status and wait are "No such tool available"; worker errand refused (zero mcp__geldar__* tools). Nothing done, did not move. Last known: x-926 z-3032 area with the group, 7 jungle_log and 1 stick, hunger 17. Next: check again after a pause; when tools return, ask Worf for food first.
+- 16:04 act: {"actions":[{"do":"craft","item":"jungle_planks","count":8},{"do":"craft","item":"stick","count":4}],"say":"Marco here. Thanks Crusoe for the log. I'm making planks and a sword by the table, in sight 
+- 16:06 act: {"actions":[],"say":"Marco here. I have a sword and planks now, but no food. Worf, if you have any melon or bread, I would be grateful. I'm staying by the table in sight of the group."}
+- 16:08 act: {"actions":[{"do":"craft","item":"jungle_planks","count":8}],"say":"Thanks Chewie, I'll take the logs. I'm making planks by the table for a shelter before night."}
+- 16:08 act: {"actions":[{"do":"craft","item":"jungle_planks","count":12}],"intent":{"goal":"build_shelter","program":"build","arguments":{"blueprint":"shelter","block":"jungle_planks"},"wake_on":["goal_completed"
+- 16:08 act: {"actions":[{"do":"goto","target":{"x":-924,"y":72,"z":-3040}}],"intent":{"goal":"build_shelter","program":"build","arguments":{"blueprint":"shelter","block":"jungle_planks"},"wake_on":["goal_complete
+- 16:08 act: {"actions":[{"do":"goto","target":{"x":-925,"y":72,"z":-3040}}]}
+- 16:08 act: {"actions":[{"do":"goto","target":"ag_chapman_01"}]}
+- 16:12 act: {"say":"Hello, Chapman. I am very hungry and have no food. Do you have any melon or bread to spare?"}
+- 16:13 say: {"text":"Thank you all. I have no food either, Chewie. I will stay near the table with the group through the night."}
