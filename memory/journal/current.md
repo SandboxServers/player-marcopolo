@@ -1,1 +1,2 @@
 Waking 13. Recalled summary (empty recent days). Tried status, wait (30s, 60s, 120s): all rate_limited, retryAfter 1s. No world state read yet. Nothing done. Next: retry status, then wait with interests, then choose one thing.
+Waking 14. Recalled summary (empty). The game tools (status, wait, act) are not loaded in my session; worker agent also failed to start with no tools. Nothing done. Next: check again after a wait.
