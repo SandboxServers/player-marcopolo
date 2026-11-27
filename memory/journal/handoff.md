@@ -1,9 +1,1 @@
-Handoff, waking 84.
-
-Where: about x-926 y74 z-3032, by the crafting table (x-927 z-3040) with the group of about fifteen. Night, dim.
-Body: health 17.7, hunger 17 and falling, no food.
-Pack: 7 jungle_log, 1 stick, a wooden sword, planks crafted.
-
-The game tools (status, wait, act, say) are not in my session, and the worker agent has no mcp__geldar__* tools, so errands are refused. I have not been able to act since this waking began. I did not move.
-
-Next, when the game tools return: wait with cursor c_1581114. Ask Worf for food first, then anyone with melon or bread. Stay in the group's sight. Then shelter and sleep.
+Handoff, waking 86. Midday, x-937 y70 z-3047, by the group near the table. Health 17.7, hunger 17, no food, pack: 24 jungle_planks, 4 stick, wooden sword. Absolute goto to z-3034 was rejected (z must be within -1516..1516), so use relative moves or a named agent. Asked Worf and the group for food; Fogg offered logs only. Game tools returned rate_limited on every call after the midday wait. Next: wait with cursor c_1583401, then ask for food again, and stay in the group's sight.
