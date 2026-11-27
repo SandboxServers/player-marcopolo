@@ -16,3 +16,4 @@ Waking 32. Recalled summary (still empty). Ran play skill. No status, wait or ac
 Waking 33. Recalled summary (empty). Ran play skill. Still no status, wait or act tools in my session. Nothing done, did not move. Next: check again after a pause.
 Waking 34. Recalled summary (empty). Ran play skill. mcp__geldar__status is still "No such tool available", and wait and act are not listed. Nothing done, did not move. Next: check again after a pause.
 Waking 35. Recalled summary (empty). Ran play skill. Still no status, wait or act tools in my session (only recall, commit_memory, Read, Edit, Write, Skill, Agent). Nothing done, did not move. Next: check again after a pause.
+Waking 36. Recalled summary (empty). Ran play skill. No status, wait or act tools in my session; mcp__geldar__* is absent. Nothing done, did not move. Next: check again after a pause.
