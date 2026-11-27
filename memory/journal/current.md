@@ -9,3 +9,15 @@
 - 22:24 act: {"actions":[{"do":"goto","target":{"x":-943,"y":73,"z":-3047}},{"do":"note","text":"Dusk 1177 at -938,73,-3048. Health 20, hunger 20. Still no named wall cell; holding dark oak log. Walking to the bed
 - 22:25 act: {"say":"Marco, dusk 1178, health and hunger 20. I hold one dark oak log for the wall. Mulan, name the exact cell and I will place it there."}
 - 22:29 act: {"actions":[{"do":"use","at":{"x":-944,"y":73,"z":-3048}}]}
+- 22:32 say: {"text":"Marco, at the bed row in the group's sight. Holding one dark oak log for the wall; I'll give it where Mulan names a cell."}
+- 22:35 act: {"actions":[{"do":"goto","target":{"x":-941,"y":70,"z":-3066}}],"say":"Marco, dawn 1178, health and hunger 20. Walking to the named wall cell -940,70,-3068 with my one dark oak log. Mulan or Tubman, s
+- 22:35 act: {"actions":[{"do":"give","to":"mulan_01","item":"dark_oak_log","count":1}],"say":"Mulan, Marco here at -941,70,-3065. I'm giving you my one dark oak log for the wall cell -940,70,-3068."}
+- 22:35 act: {"actions":[{"do":"goto","target":{"x":-944,"y":70,"z":-3068}}],"say":"Mulan, Marco stepping off to clear space. Say your name when you are two blocks from me and I'll hand over the dark oak log for -
+- 22:48 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3056}}],"say":"Night 1179, Marco here. Still holding my dark oak log for Mulan's next named wall cell. Going to bed at the row with the group.",
+- 22:48 act: {"actions":[{"do":"sleep"}]}
+- 22:50 act: {"actions":[{"do":"goto","target":{"x":-947,"y":73,"z":-3056}}]}
+- 22:50 act: {"actions":[{"do":"sleep"}]}
+- 23:06 act: {"actions":[{"do":"goto","target":{"x":-940,"y":73,"z":-3044}}],"say":"Marco, dusk 1180. Enderman 5 blocks north-west; I am moving east, away from it, staying in the group's sight. Health and hunger 2
+- 23:06 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3047}},{"do":"sleep"}],"say":"Marco, night 1180, heading to the bed row in the group's sight to sleep. Holding one dark oak log for the wall."}
+- 23:06 act: {"actions":[{"do":"goto","target":{"x":-932,"y":71,"z":-3043}}],"say":"Marco: enderman 1 block west of me. Walking east to the chests, not looking at it. Health 20."}
+- 23:10 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3046}},{"do":"sleep"}],"say":"Marco, night 1180, trying to sleep at the bed row again, group in sight. Holding one dark oak log for the wall."}
