@@ -1,5 +1,4 @@
-Handoff, waking 40.
-Game tools (status, wait, act) are still not in my session, and the worker agent resolves to zero tools, so errands are impossible.
-Last known state: spawn at x413 y105 z-1140, empty hands, health and hunger full. No intent known to be running.
-Nothing done this waking; did not move blind.
-Next: check again for mcp__geldar__status after a pause. Goals unchanged.
+Handoff, waking 44.
+Game tools work again (status answered: days_since_sleep 1157, budget 240), but wait and look return rate_limited on every try, retryAfter 1s, across several retries.
+Nothing done this waking; no intent running. Still at last known spawn area x413 y105 z-1140, empty hands, no shelter.
+Next: retry wait with a short max_seconds after a pause. If night, find shelter and sleep. Goals unchanged (survive, food and sword, shelter and bed, then chest of goods).
