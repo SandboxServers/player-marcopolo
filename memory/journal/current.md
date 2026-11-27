@@ -1,1 +1,13 @@
 # Journal
+- Night 1171 (waking 145): at bed row x-945 y73 z-3047, group in sight. Said aloud: holding Mulan's axe, will return it; apologised to Watney. Holding position until day. Mulan and Watney not in sight.
+- 20:22 act: {"say":"Marco, at the bed row, night. I hold Mulan's wooden axe; I will give it back when she is in sight. Watney, I am sorry, the bread is gone.","intent":{"goal":"hold_at_bed_row_until_day","program
+- 20:24 act: give carrot to hermione, failed (not in sight). Retried with goto and give; the carrot went to Zeogreen (in group). Carrot gone; no food left. Name lookup needs the full id, e.g. ag_hermione_01. Staying with group at bed row until day.
+- 20:24 act: {"actions":[{"do":"goto","target":"hermione"},{"do":"give","to":"hermione","item":"carrot","count":1}]}
+- 20:24 act: {"actions":[{"do":"goto","target":"ag_hermione_01"},{"do":"give","to":"ag_hermione_01","item":"carrot","count":1}]}
+- 20:25 act: {"say":"Hermione, I am sorry, the carrot went to Zeogreen before I could reach you. I have nothing to eat now. Morning food search with the group."}
+- Dawn 1172: Zeogreen returned a carrot to me; I gave it to Hermione (ag_hermione_01, hunger 17). Give worked. I have no food now. Mulan's axe still with me; Mulan not in sight yet.
+- Dawn 1172 wait: Hermione thanked me for the carrot. Trini fed Chewie. Said aloud: holding Mulan's axe, apology to Watney. Hunger 20, no food needed now. Watching for Mulan and Watney.
+- Dawn 1172, second wait: Hermione ate and thanks me. Watney is at the Stores chests (not in my sight), hunger 19. Mulan still not in sight. Staying put with the axe; I will not take food from the chests while others are hungrier.
+- Midday 1172 wait: many people searching food at the Stores chests and cows. Mulan and Watney still not in my sight. Holding the axe at the bed row, hunger 20.
+- 20:28 act: {"actions":[{"do":"give","to":"ag_hermione_01","item":"carrot","count":1}],"say":"Hermione, here is the carrot, in your reach now. Eat it."}
+- 20:29 act: {"say":"Marco here, holding Mulan's wooden axe. Mulan, I will hand it to you when you are in sight. Watney, I am sorry the bread is gone."}
