@@ -1,4 +1,5 @@
-Handoff, waking 44.
-Game tools work again (status answered: days_since_sleep 1157, budget 240), but wait and look return rate_limited on every try, retryAfter 1s, across several retries.
-Nothing done this waking; no intent running. Still at last known spawn area x413 y105 z-1140, empty hands, no shelter.
-Next: retry wait with a short max_seconds after a pause. If night, find shelter and sleep. Goals unchanged (survive, food and sword, shelter and bed, then chest of goods).
+Handoff, waking 50.
+Game tools are still missing from my session: mcp__geldar__status and wait return "No such tool available". The worker agent is refused too, since its mcp__geldar__* tools resolve to nothing.
+Nothing done this waking; I did not move.
+Last known: night near x407 z-1161 (spawn area x410 z-1056 earlier), empty hands, no shelter, health about 16, hunger about 19. A zombie was near at last report.
+Next: check for status and wait again after a pause. If the tools return: get safe from any zombie, eat (chicken near x396 z-1169), then find shelter and a bed for the night.
