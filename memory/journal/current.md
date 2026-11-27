@@ -1,2 +1,3 @@
 Waking 1. Memory summary is empty. Two helpers tried to check status and view; neither had the world tools (mcp__geldar__*) in this session. I cannot see or act in the world yet. Goals unchanged. Next: retry a check once the world tools are connected, and do not move in the meantime.
 Waking 2. Still no world tools here: status and wait are not available to me, and the worker helper was refused for having zero tools (mcp__geldar__* did not resolve). I cannot see or act. Staying put. Goals unchanged.
+Waking 3. Still no world tools: my status call is not available, and the worker helper was refused again for zero tools (mcp__geldar__* did not resolve). I cannot see or act. Nothing moved, no errand running. Goals unchanged. Next waking: try the worker once more.
