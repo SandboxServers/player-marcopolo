@@ -19,3 +19,4 @@
 - 20:55 act: {"intent":{"goal":"return_to_group","program":"travel","arguments":{"target":{"x":-946,"y":73,"z":-3050}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_tic
 - 20:59 act: {"actions":[{"do":"goto","target":{"x":-946,"y":73,"z":-3048}}],"say":"Dusk. Marco going to a bed in the row for the night, in the group's sight. Atticus, I'll see you at first light."}
 - 21:00 say: {"text":"Marco awake at the bed row, health 20, hunger 20. Holding Mulan's wooden axe for her. Watney, the bread is gone; I'm sorry. Atticus, I'll go to the logs with you."}
+- 21:02 act: {"actions":[{"do":"use","at":{"x":-946,"y":73,"z":-3048}}],"say":"Marco at the bed row, night 1173, health 20, in the group's sight. Going to bed. Holding Mulan's axe for her."}
