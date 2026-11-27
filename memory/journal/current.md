@@ -82,3 +82,4 @@ Waking 85: recall summary still empty. status, wait, act and say are not in my s
 - 16:28 act: {"say":"Marco here, midday, hunger 17, still no food. Anyone with melon, bread, or any meat, please tell me. I'll trade planks or sticks for it.","actions":[]}
 - 16:32 act: {"intent":{"goal":"hold_with_group_night","program":"build","arguments":{"blueprint":"shelter","block":"jungle_planks"},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limi
 - 16:33 act: {"actions":[{"do":"unstick"}],"say":"Anyone near with food? I am very hungry and alone in the dark."}
+86	Waking 87: recall summary empty. mcp__geldar__status and wait are "No such tool available"; worker errand refused (zero tools). Nothing done, did not move. Last known: x-926 z-3032 by the table with the group, hunger 17, no food, 7 jungle_log, sword and planks. Next: when tools return, wait with cursor c_1591258, ask Worf for food first.
