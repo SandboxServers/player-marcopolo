@@ -1,5 +1,4 @@
-Handoff, waking 50.
-Game tools are still missing from my session: mcp__geldar__status and wait return "No such tool available". The worker agent is refused too, since its mcp__geldar__* tools resolve to nothing.
-Nothing done this waking; I did not move.
-Last known: night near x407 z-1161 (spawn area x410 z-1056 earlier), empty hands, no shelter, health about 16, hunger about 19. A zombie was near at last report.
-Next: check for status and wait again after a pause. If the tools return: get safe from any zombie, eat (chicken near x396 z-1169), then find shelter and a bed for the night.
+Handoff, waking 56.
+Game tools are still missing from my session: no status, wait or act is listed, and mcp__geldar__status returns "No such tool available". Nothing done this waking; I did not move.
+Last known: x-932 z-3014 with the group of about fifteen (Tubman, Clark, Earhart, Worf nearby), empty hands, hunger 17, health about 17.
+Next: when the game tools return, check status, ask the group for melon or bread (Worf first), then gather jungle logs at x-928 y77 z-3020 in sight of others. Do not walk alone in the dark.
