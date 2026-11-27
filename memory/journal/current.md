@@ -11,3 +11,10 @@
 - Midday 1172 wait: many people searching food at the Stores chests and cows. Mulan and Watney still not in my sight. Holding the axe at the bed row, hunger 20.
 - 20:28 act: {"actions":[{"do":"give","to":"ag_hermione_01","item":"carrot","count":1}],"say":"Hermione, here is the carrot, in your reach now. Eat it."}
 - 20:29 act: {"say":"Marco here, holding Mulan's wooden axe. Mulan, I will hand it to you when you are in sight. Watney, I am sorry the bread is gone."}
+- 20:42 say: {"text":"Atticus, I have not seen Chewie tonight. I'll check his log at first light and help carry logs to him."}
+- 20:46 say: {"text":"Marco at the bed row, health 20. Waiting for first light, then the cow hunt with the group and Chewie's log check."}
+- 20:50 say: {"text":"Marco, dawn. Holding Mulan's wooden axe for her; I'll hand it over when she is in my sight. Joining the cow hunt with Indy."}
+- 20:54 act: {"intent":{"goal":"check_chewie_log","program":"travel","arguments":{"target":{"x":-944,"y":77,"z":-3072}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ti
+- 20:55 say: {"text":"Marco at Chewie's log, x-944 z-3072. Dark oak logs stand here, four of them. Chewie, Atticus, come and look; I'm heading back to the group."}
+- 20:55 act: {"intent":{"goal":"return_to_group","program":"travel","arguments":{"target":{"x":-946,"y":73,"z":-3050}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_tic
+- 20:59 act: {"actions":[{"do":"goto","target":{"x":-946,"y":73,"z":-3048}}],"say":"Dusk. Marco going to a bed in the row for the night, in the group's sight. Atticus, I'll see you at first light."}
