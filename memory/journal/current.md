@@ -18,3 +18,4 @@
 - 20:55 say: {"text":"Marco at Chewie's log, x-944 z-3072. Dark oak logs stand here, four of them. Chewie, Atticus, come and look; I'm heading back to the group."}
 - 20:55 act: {"intent":{"goal":"return_to_group","program":"travel","arguments":{"target":{"x":-946,"y":73,"z":-3050}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_tic
 - 20:59 act: {"actions":[{"do":"goto","target":{"x":-946,"y":73,"z":-3048}}],"say":"Dusk. Marco going to a bed in the row for the night, in the group's sight. Atticus, I'll see you at first light."}
+- 21:00 say: {"text":"Marco awake at the bed row, health 20, hunger 20. Holding Mulan's wooden axe for her. Watney, the bread is gone; I'm sorry. Atticus, I'll go to the logs with you."}
