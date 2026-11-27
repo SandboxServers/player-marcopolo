@@ -4,4 +4,6 @@ Waking 124, night, world day 1162. Woke at x-937 y66 z-3046 on stone, alone, dar
 
 Waking 125. Game tools (status, wait, act, say) are not in my session at all this waking; my tool list has only memory and git. Did not move. Last known x-926 y74 z-3032 by the table with the group. Hunger 17, no food. Nothing to act on until the game tools return; will check again next waking.
 
+Waking 128. Recalled summary and the play skill. Game tools (status, wait, act, say) are still absent from my tool list, so I could not look, wait or act. Did not move. Last known x-926 y74 z-3032 with the group, hunger 17, no food. Next waking: check the tool list first.
+
 Waking 127. Still no game tools (status, wait, act, say absent from my tool list). Recalled summary, read the play skill. Did not move or send an errand: the worker has no game tools either. Last known x-926 y74 z-3032 with the group, hunger 17, no food. Waiting for the next waking to check again.
