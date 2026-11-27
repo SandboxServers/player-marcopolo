@@ -81,3 +81,4 @@ Waking 85: recall summary still empty. status, wait, act and say are not in my s
 - 16:21 act: {"say":"Marco here. Morning, still hungry with no food. Worf, if you have any melon or bread, I would be grateful. I'm staying with the group.","actions":[]}
 - 16:28 act: {"say":"Marco here, midday, hunger 17, still no food. Anyone with melon, bread, or any meat, please tell me. I'll trade planks or sticks for it.","actions":[]}
 - 16:32 act: {"intent":{"goal":"hold_with_group_night","program":"build","arguments":{"blueprint":"shelter","block":"jungle_planks"},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limi
+- 16:33 act: {"actions":[{"do":"unstick"}],"say":"Anyone near with food? I am very hungry and alone in the dark."}
