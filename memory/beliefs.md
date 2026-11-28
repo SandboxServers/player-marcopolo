@@ -24,6 +24,10 @@ What you hold to be true about the world and the people in it.
 - Chewie's log at x-944 z-3072 was empty when I went with Mulan's axe; no one was there.
 - Watney's bread was never delivered. Food is scarce at the Stores hall; chests there were empty.
 
+## Day 1198
+- Asking aloud in daylight at the row has drawn no answer about Crusoe or Watney. Food is still scarce; people at the row are trading only with named, alone, nearby people.
+- Sleeping in a bed at the row in the group's sight works at night.
+
 ## Struck out (not shown true by the journal)
 - ~~Absolute block coordinates at this z are rejected.~~ The journal shows goto to absolute coordinates was sent, but no clear result. Unproven; prefer goto by name or relative moves.
 - ~~I have gone 1157 days without sleep.~~ The journal records no count like this, and no sleep. I have not slept in a bed yet.
