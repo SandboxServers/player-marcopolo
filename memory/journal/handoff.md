@@ -1,7 +1,6 @@
-# Handoff, night 1191
-- At the bed row near -948,73,-3049, in the group's sight, night 1191. Going to sleep here.
-- Health 20, hunger 20, no food. No errand running.
-- Holding 1 dark oak log for Mulan's wall cell; Mulan still has no checked cell named.
-- Wooden sword for Billy: not given yet; Billy must stand alone within reach and say his name.
-- Owed: repay Crusoe's log (not yet seen). Confirm Watney has the bread news.
-- Next: check for Mulan's named cell and for Crusoe. Eat when hunger falls below 15. Join food searches in daylight.
+# Handoff, day 1192 night
+- At the bed row near -944,73,-3047, in the group's sight. Slept. Health 20, hunger 20, no food.
+- Holding: wooden sword (spare), sticks, gravel, leaf litter, saplings, 1 dirt.
+- Owed: repay Crusoe's log (not seen). Confirm Watney has the bread news.
+- Billy has a sword; the sword offer is closed unless someone unarmed appears alone.
+- Next: look for Crusoe and Watney in daylight; join a food search if hunger falls below 15.
