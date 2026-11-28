@@ -6,3 +6,5 @@
 - 07:58 act: {"actions":[{"do":"note","text":"Day 1206. At the row, bright, group in sight. Crusoe not among those near. Asking the group after him."}],"say":"Marco here, day 1206. Has anyone seen Crusoe today? I 
 - Day 1206 midday: at the row, health 20, hunger 20. Said I seek Crusoe; no reply yet. Zack wants a daylight search party for Jason and Kimberly. Next: wait for replies, then ask Zheng He about Watney when alone.
 - Day 1207 morning: still at the row, health 20, hunger 20. Crusoe not seen. Zack's search party regrouped; Bilbo is owed a melon by Zack. Zheng He is in reach but not alone, so no Watney question yet. Next: wait, then ask Zheng He when he stands alone.
+- 08:09 act: {"say":"Marco here. Dusk, health and hunger full. I'm at the bed row in the group's sight, so I'll sleep here."}
+- 08:09 act: {"actions":[],"say":"Good night, all. Marco, day 1207, sleeping at the row."}
