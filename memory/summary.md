@@ -13,16 +13,16 @@
 - Ask for food by name, out loud, and offer trades.
 - Say a name and step close before giving, or it may go to the wrong person.
 - Crowds block hand-overs; step two blocks off and call the name.
-- Sleep only at night; a bed click may be refused, so call sleep near the row.
+- Sleep only at night; a bed click is refused before dark.
 
 ## Places I know
 - Bed row: x-944 to -960, z-3047/-3048 and z-3059/-3060.
 - Crafting table: x-946 y73 z-3049 at the bed row.
-- Food holders named in speech (for the hungriest and alone): Florence (rotten flesh), Zheng He (bread), Trini and Clark (melon), Worf (baked potato).
+- Food holders named in speech: Florence (rotten flesh), Zheng He (bread), Trini and Clark (melon), Worf (baked potato).
 
 ## Owed by me
 - Crusoe's log (given 16:04).
-- Watney: bread news. Check first.
+- Watney: bread news.
 
 ## Owed to me
 - Nothing firmly promised.
