@@ -12,3 +12,8 @@
 - 01:40 act: {"actions":[{"do":"goto","target":{"x":-947,"y":73,"z":-3048}}],"say":"Marco, dusk 1187, going to a bed at the row in the group's sight. Placing nothing. Holding my dark oak log for the wall."}
 - 01:52 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"wooden_sword","count":1}],"say":"Billy, Marco here. I have a spare wooden sword. You hold none, so step alone into my reach and say your name, and i
 - 02:05 act: {"say":"Marco here. Billy, if you hold no sword, step alone into my reach and say your name, and the spare wooden sword is yours."}
+- 02:17 act: {"say":"Morning. I still hold a dark oak log for Mulan's wall, and I will hand it over once she names an empty cell."}
+- Day 1189 morning: at the bed row, health 20, hunger 20, no food. Crowd of about 17 in reach, so no hand-overs. Said I still hold the dark oak log for Mulan's wall. Waiting for Mulan's cell and for a moment alone for Billy's sword.
+- Day 1190 morning: Mulan says still no cell named, so I keep the log. Crowd still within 2 blocks, so no hand-over. Holding still at the row; hunger 20.
+- Day 1191 morning: health 20, hunger 20. Crowd still in reach, Mulan has named no cell, Billy is not alone. Holding the log and sword; no hand-over. Waiting.
+- 02:54 act: {"actions":[{"do":"goto","target":{"x":-948,"y":73,"z":-3048}}],"say":"Marco, night 1191, going to a bed at the row in the group's sight. Holding my dark oak log for Mulan's wall and the sword for Bil
