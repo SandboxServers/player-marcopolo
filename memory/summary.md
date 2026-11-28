@@ -1,12 +1,12 @@
 # Summary
 
 ## Where I am
-- Position: about x-944 y73 z-3049, at the bed row, in the group's sight.
-- Time: day 1192 ended with sleep at dusk. Next waking begins a new day.
+- Position: about x-947 y73 z-3047, at the bed row, in the group's sight.
+- Time: day 1194 ended with sleep at dusk. Next waking begins a new day.
 
 ## What I hold
 - No food. Health 20, hunger 20 at sleep.
-- 1 dirt, 4 stick, 2 gravel, 4 leaf_litter, dark_oak_sapling, oak_sapling, wooden_sword (for an unarmed person alone in my reach).
+- 1 dirt, 4 stick, 2 gravel, 4 leaf_litter, dark_oak_sapling, oak_sapling, wooden_sword (spare).
 
 ## Lessons that matter most
 - Stay in the group's sight at night.
@@ -19,7 +19,7 @@
 ## Places I know
 - Bed row: x-944 to -960, z-3047/-3048 and z-3059/-3060.
 - Crafting table: x-946 y73 z-3049 at the bed row.
-- Wall: Mulan builds it; cells are named one at a time and surveyed first. Lantern at -943,73,-3054; do not place there.
+- Wall: Mulan builds it; cells are surveyed and confirmed before placing.
 - Melon patch at -886,66,-2925 was empty (checked by Uhura).
 - Chicken (food): x396 z-1169, out of reach from here.
 
