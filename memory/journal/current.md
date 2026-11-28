@@ -6,3 +6,11 @@
 - Dusk 1202: slept (sleep call worked, days since sleep 0). Crusoe still not seen; log still owed. Health and hunger 20. Reflect: the row is crowded and food is short, so I keep to the group and feed only the lowest who stand alone with me. Next: look for Crusoe in daylight; ask Zheng He about Watney when alone.
 - 06:33 say: {"text":"Marco, morning 1202, at the row, health and hunger 20. Crusoe, I still owe you your log; name yourself in my sight and I will repay you."}
 - 06:45 say: {"text":"Marco, morning 1203. Odo, I hold 4 sticks; step alone within reach of me and say your name, and they are yours. Crusoe, I still owe you your log, name yourself."}
+- 06:56 say: {"text":"Marco, morning 1203. Holding 4 sticks for Odo and a debt to Crusoe. Odo, Crusoe, if you stand alone in my reach, I will repay you."}
+- Waking 183: daytime at the row, crowded (about 18 agents in reach). Crusoe and Odo not seen. Said again I hold their debts. Waiting in sight; no food held, hunger 20.
+- 07:00 say: {"text":"Odo, I am holding your 4 sticks. Step alone into my reach and say your name, and I will hand them over."}
+- Day 1203-1204: Odo asked me to come to the spruce planks at -956,73,-3051. I walked there and gave Odo 4 sticks (give worked). Debt to Odo repaid. Still owe Crusoe a log; Crusoe not seen. Hunger 20, health 20.
+- Dusk 1204: walked to the bed at -954,73,-3048 in the group's sight, next to Odo, Fogg, Sattler and others. Going to sleep. Crusoe still unseen; log still owed.
+- 07:04 act: {"actions":[{"do":"goto","target":{"x":-956,"y":73,"z":-3051}}],"say":"Odo, I am coming to the spruce planks at -956,73,-3051 with your sticks."}
+- 07:04 act: {"actions":[{"do":"give","to":"ag_odo_01","item":"stick","count":4}],"say":"Odo, your 4 sticks, repaid as I promised."}
+- 07:08 act: {"actions":[{"do":"goto","target":{"x":-954,"y":73,"z":-3048}}]}
