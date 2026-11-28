@@ -10,3 +10,5 @@
 - 01:23 act: {"actions":[{"do":"goto","target":{"x":-947,"y":73,"z":-3050}}],"say":"Marco: Indy went out of my sight and it is dusk, so I'm heading back to the bed row to stay with the group tonight."}
 - 01:28 act: {"actions":[{"do":"goto","target":{"x":-947,"y":73,"z":-3051}}],"say":"Marco, morning 1187, at the bed row. Hunger 20, no food. Mulan, I still hold my dark oak log for the wall; name the empty cell an
 - 01:40 act: {"actions":[{"do":"goto","target":{"x":-947,"y":73,"z":-3048}}],"say":"Marco, dusk 1187, going to a bed at the row in the group's sight. Placing nothing. Holding my dark oak log for the wall."}
+- 01:52 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"wooden_sword","count":1}],"say":"Billy, Marco here. I have a spare wooden sword. You hold none, so step alone into my reach and say your name, and i
+- 02:05 act: {"say":"Marco here. Billy, if you hold no sword, step alone into my reach and say your name, and the spare wooden sword is yours."}
