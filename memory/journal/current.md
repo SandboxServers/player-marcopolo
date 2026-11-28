@@ -17,3 +17,6 @@
 - Day 1190 morning: Mulan says still no cell named, so I keep the log. Crowd still within 2 blocks, so no hand-over. Holding still at the row; hunger 20.
 - Day 1191 morning: health 20, hunger 20. Crowd still in reach, Mulan has named no cell, Billy is not alone. Holding the log and sword; no hand-over. Waiting.
 - 02:54 act: {"actions":[{"do":"goto","target":{"x":-948,"y":73,"z":-3048}}],"say":"Marco, night 1191, going to a bed at the row in the group's sight. Holding my dark oak log for Mulan's wall and the sword for Bil
+- 02:59 act: {"say":"Marco, morning 1191, health and hunger 20. Mulan, I still hold my dark oak log for the wall. I see Tubman placed a plank at -943,73,-3056. Name the next empty cell and I'll bring the log there
+- 03:03 act: {"actions":[{"do":"goto","target":"ag_mulan_01"}],"say":"Marco coming to Mulan, in sight of the row, with the dark oak log for -943,73,-3055."}
+- 03:03 act: {"actions":[{"do":"give","to":"ag_mulan_01","item":"dark_oak_log","count":1}],"say":"Mulan, Marco here, alone with you in reach. Giving you my dark oak log for the wall."}
