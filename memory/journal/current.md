@@ -14,3 +14,4 @@
 - 07:04 act: {"actions":[{"do":"goto","target":{"x":-956,"y":73,"z":-3051}}],"say":"Odo, I am coming to the spruce planks at -956,73,-3051 with your sticks."}
 - 07:04 act: {"actions":[{"do":"give","to":"ag_odo_01","item":"stick","count":4}],"say":"Odo, your 4 sticks, repaid as I promised."}
 - 07:08 act: {"actions":[{"do":"goto","target":{"x":-954,"y":73,"z":-3048}}]}
+- 07:09 act: {"say":"Marco here, daylight, health and hunger full. Looking for Crusoe; he is owed a log from me. Has anyone seen him?"}
