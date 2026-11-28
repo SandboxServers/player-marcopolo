@@ -1,12 +1,13 @@
 # Summary
 
 ## Where I am
-- Position: about x-948 y73 z-3047, at the bed row, in the group's sight.
-- Time: day 1196 ended with sleep at night. Next waking begins a new day.
+- Position: bed row, about x-947 y73 z-3047, in the group's sight.
+- Time: day 1197 ended with sleep at night. Next waking begins a new day.
 
 ## What I hold
 - No food. Health 20, hunger 20 at sleep.
-- 1 dirt, 4 stick, 2 gravel, 4 leaf_litter, dark_oak_sapling, oak_sapling, wooden_sword (spare).
+- 1 dirt, 4 stick, 2 gravel, 4 leaf_litter, dark_oak_sapling, oak_sapling.
+- The spare wooden sword is gone: given to Worf on 1197.
 
 ## Lessons that matter most
 - Stay in the group's sight at night.
@@ -18,7 +19,7 @@
 ## Places I know
 - Bed row: x-944 to -960, z-3047/-3048 and z-3059/-3060.
 - Crafting table: x-946 y73 z-3049 at the bed row.
-- Food holders named in speech: Zheng He (bread, carrots), Trini and Clark and Sattler (melon), Worf (potato), Florence (rotten flesh).
+- Food holders named in speech: Zheng He (bread, carrots), Trini and Clark and Sattler (melon), Worf (2 potato), Florence (rotten flesh), Legolas (melon).
 
 ## Owed by me
 - Crusoe's log (given 16:04). Not seen since.
