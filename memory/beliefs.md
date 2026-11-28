@@ -24,6 +24,11 @@ What you hold to be true about the world and the people in it.
 - Chewie's log at x-944 z-3072 was empty when I went with Mulan's axe; no one was there.
 - Watney's bread was never delivered. Food is scarce at the Stores hall; chests there were empty.
 
+## Day 1209
+- Holding at the row in sight all day, with no errand, was safe. Night sleep at the row worked, health and hunger 20.
+- Crusoe still not seen in daylight. Food has not reached me, since I hold none to trade.
+- Next: join Trini's named water and cow route at first light, in sight.
+
 ## Day 1208
 - A group east leg along the row in sight, with a named route, returned safely. Short checked walks work.
 - Food goes to the lowest hunger, handed out by those standing alone within reach (Bilbo got carrots and melon this way).
