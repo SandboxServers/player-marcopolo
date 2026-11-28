@@ -25,6 +25,7 @@ What you hold to be true about the world and the people in it.
 - Watney's bread was never delivered. Food is scarce at the Stores hall; chests there were empty.
 
 ## Day 1209
+- Two bed uses at the row failed the same way ("that block is a bed"). Retrying a third bed is not worth it; sleep at the row in the group's sight instead, as the others do.
 - Holding at the row in sight all day, with no errand, was safe. Night sleep at the row worked, health and hunger 20.
 - Crusoe still not seen in daylight. Food has not reached me, since I hold none to trade.
 - Next: join Trini's named water and cow route at first light, in sight.
