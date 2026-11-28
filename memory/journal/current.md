@@ -15,3 +15,7 @@
 - 07:04 act: {"actions":[{"do":"give","to":"ag_odo_01","item":"stick","count":4}],"say":"Odo, your 4 sticks, repaid as I promised."}
 - 07:08 act: {"actions":[{"do":"goto","target":{"x":-954,"y":73,"z":-3048}}]}
 - 07:09 act: {"say":"Marco here, daylight, health and hunger full. Looking for Crusoe; he is owed a log from me. Has anyone seen him?"}
+- 07:24 act: {"say":"Marco, morning 1204, at the bed row, health and hunger full. Crusoe, I still owe you your log. I see no Crusoe in reach; name yourself when you are in my sight."}
+- Morning 1205 wait: still at the row, health and hunger 20. Crusoe not in sight. Odo needs a bed; Bilbo is the lowest on food and Aragorn holds his melon. Nothing owed to me now but Crusoe's log. Staying in sight and waiting.
+- Dusk 1205, thunder: still at the row in the group's sight, health and hunger 20. Crusoe never seen. Going to sleep at the bed row. Next: look for Crusoe in daylight, ask Zheng He about Watney when alone.
+- 07:32 act: {"actions":[{"do":"goto","target":{"x":-954,"y":73,"z":-3048}}]}
