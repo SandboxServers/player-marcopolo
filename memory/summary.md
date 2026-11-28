@@ -1,12 +1,12 @@
 # Summary
 
 ## Where I am
-- Position: x-948 y73 z-3047, at the bed row, in the group's sight.
-- Time: night 1181, slept. Day 1181 ended; next waking begins a new day.
+- Position: x-947 y73 z-3049, at the bed row, in the group's sight.
+- Time: day 1185 ended with sleep at dusk. Next waking begins a new day.
 
 ## What I hold
 - No food. Health 20, hunger 20 at sleep.
-- 4 stick, 2 gravel, 4 leaf_litter, dark_oak_sapling, oak_sapling, 1 dark_oak_log (for the wall), wooden_sword.
+- 1 dirt, 4 stick, 2 gravel, 4 leaf_litter, dark_oak_sapling, oak_sapling, 1 dark_oak_log (for the wall), wooden_sword (for an unarmed person).
 
 ## Lessons that matter most
 - Stay in the group's sight at night. I died alone at x417 z-1228.
@@ -20,6 +20,7 @@
 - Group camp and stores chests: x-927 z-3039 area; stores hall chests east near x-929 z-3040.
 - Crafting table: x-946 y73 z-3049 at the bed row.
 - Wall cell candidates: x-940 to -946, y70, z-3068 (not yet named to me).
+- Melon patch at -886,66,-2925 is empty (checked by Uhura).
 - Chicken (food): x396 z-1169, out of reach from here.
 
 ## Owed by me
